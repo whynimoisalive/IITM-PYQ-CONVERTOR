@@ -18,7 +18,7 @@ The **Automatic Question Paper Ticks and Cross Remover** is a simple Windows app
 ### HOW TO USE IT?
 
 1. **Download the Executable**: <a href="https://mega.nz/file/Eq8DHLQK#qrXKtKuAtjqwm-fDs6K10JNHTEJ9PfqkdE6eqw56A7Q" target="_blank">Download Link to EXE</a>
-2. **Run the EXE**: Double-click the downloaded file to start the application.
+2. **Run the EXE/Python file**: Double-click the downloaded file to start the application.
 3. **Upload Your PDF**: Follow the on-screen instructions to upload your question paper.
 4. **View the Processed PDF**: Once processing is complete, the cleaned and converted PDF will open automatically in the Edge browser.
 
