@@ -7,7 +7,7 @@
 
 The **Automatic Question Paper Ticks and Cross Remover** is a simple Windows application designed to help IITM students clean up their previous year question papers. This application automatically removes ticks and crosses from the PDF, converts the PDF to black and white if needed, and ensures that the processed PDF opens in the Edge browser's PDF viewer.
 
-![Logo](https://cdn.discordapp.com/attachments/822827692754731038/1278315541836333076/Webp.net-resizeimage.png?ex=66d05b9f&is=66cf0a1f&hm=02aa50e7f48a93cb5ff5134a44b938c31070b55e1322afd32634415ec0e34700&)
+![Logo](https://cdn.discordapp.com/attachments/822827692754731038/1278762497293291520/Grey_Textured_Background_Keep_Moving_Forward_Motivational_Quote_Desktop_Wallpaper.png?ex=66d1fbe1&is=66d0aa61&hm=184f92c169fe5000ffd53a5d5ee8ab6f60c45c6b93557f89bb1032564ccab021&)
 
 ## Getting Started
 
