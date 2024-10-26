@@ -15,7 +15,7 @@ The **Automatic Question Paper Ticks and Cross Remover** is a simple Windows app
 
 - Ensure your default PDF viewer is set to the Edge browser's PDF viewer.
 
-### HOW TO USE IT?
+### HOW TO USE IT?(For begginers who cant run the python code)
 
 1. **Download the Executable**: Running the executable will **trigger a Windows protection warning because the app isn't registered.** To bypass this warning, click "More info" and then select "Run anyway." <a href="https://mega.nz/file/Eq8DHLQK#qrXKtKuAtjqwm-fDs6K10JNHTEJ9PfqkdE6eqw56A7Q" target="_blank">Download Link to EXE</a> 
 2. **Run the EXE/Python file**: Double-click the downloaded file to start the application.
